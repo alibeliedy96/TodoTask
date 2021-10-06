@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoTask</string>
+    <string name="_22_12_2021">22_12_2021</string>
+    <string name="title">title</string>
+    <string name="todo_Add_successfully">todo Add Successfully</string>
+    <string name="some_field_is_empty">some field is empty</string>
+</resources>
